@@ -1,0 +1,11 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P002;iaurt grecesc;Olympus;0.4;kg;lactate;2025-05-20;2025-06-03;15
+P005;pâine albă;Vel Pitar;0.5;kg;panificație;2025-05-20;2025-06-03;20
+P010;apă plată;Dorna;2;l;băuturi;2025-05-20;2025-06-03;10
+P014;detergent lichid;Ariel;2.5;l;produse de menaj;2025-05-20;2025-06-03;25
+P015;șampon păr gras;Elseve;400;ml;îngrijire personală;2025-05-20;2025-06-03;30
+P020;spaghetti nr.5;Barilla;500;g;paste făinoase;2025-05-20;2025-06-03;20
+P024;mămăligă extra;Băneasa;1;kg;patiserie și cereale;2025-05-20;2025-06-03;18
+P026;orez bob lung;Uncle Ben's;1;kg;cereale;2025-05-20;2025-06-03;22
+P028;pastă de dinți;Colgate;100;ml;îngrijire personală;2025-05-20;2025-06-03;15
+P031;bere blondă;Ursus;0.5;l;băuturi;2025-05-20;2025-06-03;10

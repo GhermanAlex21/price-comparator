@@ -1,0 +1,11 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P001;lapte zuzu;Zuzu;1;l;lactate;2025-05-20;2025-06-03;10
+P004;brânză telemea;Hochland;0.3;kg;lactate;2025-05-20;2025-06-03;15
+P006;roșii cherry;BioGarden;0.25;kg;legume și fructe;2025-05-20;2025-06-03;18
+P008;zahăr tos;Mărgăritar;1;kg;alimente de bază;2025-05-20;2025-06-03;20
+P009;apă plată;Borsec;2;l;băuturi;2025-05-20;2025-06-03;12
+P012;ulei floarea-soarelui;Bunge;1;l;alimente de bază;2025-05-20;2025-06-03;25
+P018;ciocolată neagră 70%;Heidi;100;g;gustări;2025-05-20;2025-06-03;15
+P021;cartofi albi;Generic;1;kg;legume și fructe;2025-05-20;2025-06-03;22
+P023;ceapă galbenă;Generic;1;kg;legume și fructe;2025-05-20;2025-06-03;10
+P030;pastă de dinți;Sensodyne;75;ml;îngrijire personală;2025-05-20;2025-06-03;15

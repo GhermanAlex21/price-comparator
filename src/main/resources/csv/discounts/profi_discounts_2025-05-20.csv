@@ -1,0 +1,11 @@
+product_id;product_name;brand;package_quantity;package_unit;product_category;from_date;to_date;percentage_of_discount
+P003;ouă mărimea M;Toni's;10;buc;alimente de bază;2025-05-20;2025-06-03;12
+P007;piept pui;Agricola;1;kg;carne;2025-05-20;2025-06-03;20
+P011;banane;Chiquita;1;kg;legume și fructe;2025-05-20;2025-06-03;15
+P013;cafea măcinată;Jacobs;0.25;kg;cafea;2025-05-20;2025-06-03;18
+P016;hârtie igienică 3 straturi;Zewa;10;buc;produse de menaj;2025-05-20;2025-06-03;25
+P017;piper negru măcinat;Cosmin;50;g;condimente;2025-05-20;2025-06-03;10
+P019;vin alb demisec;Recas;0.75;l;băuturi;2025-05-20;2025-06-03;14
+P022;morcovi;Generic;1;kg;legume și fructe;2025-05-20;2025-06-03;20
+P025;file somon;Ocean Fish;0.3;kg;pește;2025-05-20;2025-06-03;17
+P027;iaurt de băut;Danone;0.3;l;lactate;2025-05-20;2025-06-03;12
